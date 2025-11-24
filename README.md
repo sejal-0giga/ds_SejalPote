@@ -20,5 +20,5 @@ CSV Data Files
 GitHub for version control
 
 📊 Google Colab Notebook
-🔗 Paste your notebook link here:
+
 👉 https://colab.research.google.com/drive/1tw-9btRM8k4tBj-ZdE4SYzDRH77gioiD?usp=sharing
